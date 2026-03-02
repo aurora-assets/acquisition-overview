@@ -22,6 +22,16 @@ Formal architectural documents covering conceptual geometry, compositional primi
 ### 04 — Empirical Evidence
 Empirical demonstration of structural LLM failure modes in ambiguity resolution. Cross-platform test protocol and reproducibility materials.
 
+## PyPI
+
+aurora-lens is published on PyPI and installable as a package:
+
+```
+pip install aurora-lens
+```
+
+https://pypi.org/project/aurora-lens/
+
 ## Patent Position
 
 Five provisional patent applications filed November–December 2025 (IP Australia). Non-provisional filings due November–December 2026. Full specifications available under NDA.
