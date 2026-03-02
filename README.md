@@ -12,13 +12,13 @@ This organisation holds the complete IP asset bundle for Aurora: a deterministic
 
 ## IP Documentation
 
-### 01 — Governance IP
+### 02 — Governance IP
 Specifications and research underlying the governance architecture.
 
-### 02 — Reasoning Architecture
+### 03 — Reasoning Architecture
 Formal documents covering conceptual geometry, compositional primitives, derivation methods, and executable block specifications.
 
-### 03 — Empirical Evidence
+### 04 — Empirical Evidence
 Structured demonstration of LLM failure modes in ambiguity resolution, with cross-platform test protocol and full reproducibility materials.
 
 ## PyPI
