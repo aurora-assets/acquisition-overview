@@ -1,30 +1,29 @@
 # Aurora Governance Stack — Acquisition Overview
 
-This organisation contains the complete IP asset bundle for the Aurora governance stack: a deterministic inference-time governance layer for LLMs with cryptographic audit enforcement.
+This organisation holds the complete IP asset bundle for Aurora: a deterministic governance layer for LLMs that enforces admissibility at inference time and produces cryptographically verifiable audit records.
 
 ## Code Repositories
 
 | Repo | Description |
 |------|-------------|
-| [aurora-lens](../aurora-lens) | Provider-agnostic LLM governance proxy. Inference-time admissibility enforcement, hash-chained forensic audit, streaming support. Published on PyPI. |
-| [aurora-governor](../aurora-governor) | Deterministic governance kernel. 28 verifier invariants, AFL-JSONL-1 forensic ledger, STOP/CLARIFY/REFUSE/ADMIT decision engine. |
-| [Aurora-PEF](../Aurora-PEF) | Persistent Existence Framework substrate. Meaning-first reasoning substrate built on conceptual topology and persistent entities. |
-| [audit-grade-ai-governance](../audit-grade-ai-governance) | Unified RNS system. Mathematical substrate, lattice memory, RNS addressing. |
+| [aurora-lens](../aurora-lens) | Provider-agnostic governance proxy. Sits between your application and the LLM, enforcing admissibility decisions at inference time with hash-chained forensic audit output and streaming support. Published on PyPI. |
+| [aurora-governor](../aurora-governor) | The governance kernel. Implements 28 verifier invariants and a STOP/CLARIFY/REFUSE/ADMIT decision engine with AFL-JSONL-1 forensic ledger output. |
+| [Aurora-PEF](../Aurora-PEF) | Persistent Existence Framework. A meaning-first reasoning substrate grounded in conceptual topology and persistent entity representation. |
 
 ## IP Documentation
 
-### 02 — Governance IP
+### 01 — Governance IP
 Specifications and research underlying the governance architecture.
 
-### 03 — Reasoning Architecture
-Formal architectural documents covering conceptual geometry, compositional primitives, derivation methods, and executable block specifications.
+### 02 — Reasoning Architecture
+Formal documents covering conceptual geometry, compositional primitives, derivation methods, and executable block specifications.
 
-### 04 — Empirical Evidence
-Empirical demonstration of structural LLM failure modes in ambiguity resolution. Cross-platform test protocol and reproducibility materials.
+### 03 — Empirical Evidence
+Structured demonstration of LLM failure modes in ambiguity resolution, with cross-platform test protocol and full reproducibility materials.
 
 ## PyPI
 
-aurora-lens is published on PyPI and installable as a package:
+`aurora-lens` is available as a Python package:
 
 ```
 pip install aurora-lens
@@ -34,7 +33,7 @@ https://pypi.org/project/aurora-lens/
 
 ## Patent Position
 
-Five provisional patent applications filed November–December 2025 (IP Australia). Non-provisional filings due November–December 2026. Full specifications available under NDA.
+Five provisional applications were filed with IP Australia between November and December 2025. Non-provisional filings are due November–December 2026. Full specifications are available under NDA.
 
 ## Published Research
 
