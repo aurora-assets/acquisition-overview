@@ -24,7 +24,7 @@ Empirical demonstration of structural LLM failure modes in ambiguity resolution.
 
 ## Patent Position
 
-Five provisional patent applications filed November–December 2025 (IP Australia). Non-provisional filings due November–December 2026. Patent filings available for review under NDA.
+Five provisional patent applications filed November–December 2025 (IP Australia). Non-provisional filings due November–December 2026. Full specifications available under NDA.
 
 ## Published Research
 
